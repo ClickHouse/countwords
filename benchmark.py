@@ -49,6 +49,7 @@ programs = [
     ('Pascal', './simple-pas', None, 'by Osman Turan'),
     ('Tcl', 'tclsh simple.tcl', None, 'by William Ross'),
     ('Haskell', './haskell/simple-exe', None, 'by Adrien Glauser'),
+    ('SQL', './simple.sql', None, 'by Alexey Milovidov'),
 ]
 
 times = []
